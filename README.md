@@ -16,7 +16,7 @@ Download the repo - and get a fully functional business website - that can be co
 **⚙️ In-depth Features (Home) ⚙️**
 - Customisable page design (home background, colour scheme, etc)
 - Services Page - Let visitors know what your company does.
-- Projects Page - LEt visitors know what your company has done.
+- Projects Page - Let visitors know what your company has done.
 - Contact Us - Fully functional contact us page
 - Site status mode (Enable/Disabled Mode)
 - Editable SEO/Meta Tags 
