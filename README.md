@@ -1,5 +1,5 @@
 # php-website-generator
-🚀PHP Business website generator - Completely Databaseless - JSON Oreintated
+🚀PHP Business website generator - Completely Databaseless - JSON Orientated
 
 Download the repo - and get a fully functional business website - that can be completely controlled by an Admin Panel.
 
